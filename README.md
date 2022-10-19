@@ -1,0 +1,2 @@
+# depricate.open.glide
+depricateopenglide
